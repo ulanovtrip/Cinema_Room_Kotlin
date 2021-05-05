@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        //Do not touch code below
+        var inputArray: Array<Array<String>> = arrayOf()
+        val n = readLine()!!.toInt()
+        for (i in 0 until n) {
+            val strings = readLine()!!.split(' ').toTypedArray()
+            inputArray += strings
+        }
+        //write your code here
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10959#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 17 Apr 2021 20:16:24 UTC
+record: -1

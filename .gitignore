@@ -1,0 +1,95 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Arrays/Initializing an array of characters/out/production/classes/
+/Topics/Characters/Sequence/out/
+/Topics/Characters/Sequence/out/production/classes/
+/Topics/Characters/Theory/out/production/classes/
+/Topics/Equality/Kings of Sweden/out/
+/Topics/Equality/Kings of Sweden/out/production/classes/
+/Topics/Equality/Referential equality/out/
+/Topics/Equality/Referential equality/out/production/classes/
+/Topics/Equality/Theory/out/production/classes/
+/Topics/Equality/True captain/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/The max of three numbers/out/
+/Topics/If expression/The max of three numbers/out/production/classes/
+/Topics/If expression/Theory/out/
+/Topics/If expression/Theory/out/production/classes/
+/Topics/Multi-dimensional array/Accordance/out/
+/Topics/Multi-dimensional array/Accordance/out/production/classes/
+/Topics/Multi-dimensional array/Corners/out/
+/Topics/Multi-dimensional array/Corners/out/production/classes/
+/Topics/Multi-dimensional array/Cube of zeros/out/
+/Topics/Multi-dimensional array/Cube of zeros/out/production/classes/
+/Topics/Multi-dimensional array/Shapeshifter/out/
+/Topics/Multi-dimensional array/Shapeshifter/out/production/classes/
+/Topics/Multi-dimensional array/Theory/out/
+/Topics/Multi-dimensional array/Theory/out/production/classes/
+/Topics/Objects/Playing with time/out/
+/Topics/Objects/Playing with time/out/production/classes/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Ranges/Theory/out/
+/Topics/Ranges/Theory/out/production/classes/
+/Topics/Ranges/Within a range/out/production/classes/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readLine/Reversed output/out/
+/Topics/Reading data with a readLine/Reversed output/out/production/classes/
+/Topics/Reading data with a readLine/Theory/out/production/classes/
+/Topics/Repeating blocks/Grades/out/
+/Topics/Repeating blocks/Grades/out/production/classes/
+/Topics/Repeating blocks/Kotlin x5/out/
+/Topics/Repeating blocks/Kotlin x5/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/Repeating blocks/Print a string exactly ten times/out/
+/Topics/Repeating blocks/Print a string exactly ten times/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Repeating blocks/Theory/out/
+/Topics/Repeating blocks/Theory/out/production/classes/
+/Topics/Standard input/Four numbers/out/
+/Topics/Standard input/Four numbers/out/production/classes/
+/Topics/Standard input/Printing each word in a new line/out/
+/Topics/Standard input/Printing each word in a new line/out/production/classes/
+/Topics/Standard input/Read and print/out/
+/Topics/Standard input/Read and print/out/production/classes/
+/Topics/Standard input/Theory/out/
+/Topics/Standard input/Theory/out/production/classes/
+/Topics/String arrays/Adding arrays/out/
+/Topics/String arrays/Adding arrays/out/production/classes/
+/Topics/String arrays/Empty/out/
+/Topics/String arrays/Empty/out/production/classes/
+/Topics/String arrays/Help the Lord Commander/out/
+/Topics/String arrays/Help the Lord Commander/out/production/classes/
+/Topics/String arrays/Theory/out/
+/Topics/String arrays/Theory/out/production/classes/
+/Topics/String arrays/Yet another array/out/
+/Topics/String arrays/Yet another array/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/Theory/out/
+/Topics/String templates/Theory/out/production/classes/
+/Topics/The classification of basic types/Max values of integer types/out/
+/Topics/The classification of basic types/Max values of integer types/out/production/classes/
+/Topics/The classification of basic types/Size, min and max/out/
+/Topics/The classification of basic types/Size, min and max/out/production/classes/
+/Topics/The classification of basic types/Theory/out/
+/Topics/The classification of basic types/Theory/out/production/classes/
+/Topics/Working with strings/JSON/out/
+/Topics/Working with strings/JSON/out/production/classes/
+/Topics/Working with strings/N-th symbol/out/
+/Topics/Working with strings/N-th symbol/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
+/Topics/Working with strings/Theory/out/production/classes/

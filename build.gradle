@@ -1,0 +1,49 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.10"
+    }
+}
+
+subprojects {
+    apply plugin: 'application'
+    apply plugin: 'java'
+    apply plugin: "kotlin"
+
+    sourceCompatibility = 1.8
+
+    repositories {
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+
+    dependencies {
+        compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+        implementation "org.jetbrains.kotlin:kotlin-reflect:1.4.10"
+        testImplementation 'com.github.hyperskill:hs-test:release-SNAPSHOT'
+    }
+
+    configurations.all {
+        resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+    }
+
+    sourceSets {
+        main.java.srcDir 'src'
+        test.java.srcDir 'test'
+    }
+
+    test {
+        systemProperty "file.encoding", "utf-8"
+    }
+
+    compileJava.options.encoding = 'utf-8'
+    tasks.withType(JavaCompile) {
+        options.encoding = 'utf-8'
+    }
+}
+
+wrapper {
+    gradleVersion = '6.6.1'
+}
